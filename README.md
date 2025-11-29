@@ -31,3 +31,31 @@ namespace ConsoleApp3
     }
 }
 ```
+### Тест примери
+
+Тест пример 1:
+```
+Unesi duzinu stranice jednakostranicnog trougla a: 2
+Poluprecnik upisane kruznice r = 0,577350269189626
+
+C:\Users\Admin\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe (process 27404) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+Тест пример 2:
+```
+Unesi duzinu stranice jednakostranicnog trougla a: 4,67
+Poluprecnik upisane kruznice r = 1,34811287855778
+
+C:\Users\Admin\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe (process 27168) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+### Објекти
+
+| Редни број | Променљива | Тип променљиве |
+| ---------- | ---------- | -------------- |
+| 1.         | `a`    | `double`       |
+| 2.         | `r`    | `double`       |
