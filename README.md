@@ -8,17 +8,4 @@ $r = \frac{a\sqrt{3}}{6}$
 
 ### Алгоритамска шема
 
-```mermaid
-flowchart TD
-    Start([Почетак])
-    Input[/Унеси a/]
-    Check{a > 0 ?}
-    Error[/Прикажи грешку/]
-    Compute[Израчунај r = a * sqrt(3) / 6]
-    Output(Прикажи r)
-    End([Крај])
-
-    Start --> Input --> Check
-    Check -- Да --> Compute --> Output --> End
-    Check -- Не --> Error --> End
-```
+![Алгоритамско решење](domaci.png)
